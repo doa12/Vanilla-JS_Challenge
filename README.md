@@ -1,6 +1,6 @@
 # 🌱Vanilla JS Challenge 28th
 
-- https://nomadcoders.co/c/vanillajs-challenge
+- https://nomadcoders.co/vanillajs-challenge
 - 2022.08.29 ~ 2022.09.11
 
 <hr />
