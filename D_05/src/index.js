@@ -63,3 +63,5 @@ function rainbow() {
 }
 
 window.addEventListener("resize", rainbow);
+
+// complete!
