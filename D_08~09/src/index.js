@@ -32,3 +32,5 @@ randomGame.addEventListener("submit", submitInput);
 // Math.round : 반올림
 // Math.ceil : 올림
 // Math.floor : 버림
+
+// complete!

@@ -38,3 +38,5 @@ title.addEventListener("mouseenter", superEventHandler.handleEnter);
 title.addEventListener("mouseleave", superEventHandler.handleLeave);
 window.addEventListener("resize", superEventHandler.handleResize);
 window.addEventListener("contextmenu", superEventHandler.handleRight);
+
+// complete!
