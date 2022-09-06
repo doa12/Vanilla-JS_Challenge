@@ -6,7 +6,21 @@
   </head>
 
   <body>
+    <h1>Random Number Game</h1>
+    <form id="randomGame">
+      <h2>
+        Generate a number between 0 and
+        <input id="setRange" type="number" min="0" max="" required />
+      </h2>
+      <h3>
+        Guess the number:
+        <input id="guessNum" type="number" min="0" max="" required />
+        <button id="submitNum" type="submit">Play!</button>
+      </h3>
+      <p id="numStat"></p>
+      <span id="result"></span>
+      <!-- span이 아니라 <p><b></b></p>로 하면 eventListener 버벅거림 -->
+    </form>
     <script src="src/index.js"></script>
-    <h2>Hello :)</h2>
   </body>
 </html>

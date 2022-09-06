@@ -1,3 +1,51 @@
 body {
   font-family: sans-serif;
 }
+
+h1,
+h3 {
+  color: slateblue;
+}
+
+input {
+  padding: 5px;
+  height: 25px;
+  font-size: 15px;
+  font-weight: bolder;
+  color: gray;
+  border-bottom: 1px solid gray;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  background-color: white;
+  color: slateblue;
+  border: 1px solid slateblue;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 7px;
+}
+
+button:hover {
+  background-color: slateblue;
+  color: white;
+  cursor: pointer;
+}
+
+span {
+  font-weight: bold;
+  font-size: 20px;
+  color: slateblue;
+}
+
+p {
+  color: gray;
+  font-weight: bold;
+}
