@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./style.css";
 
 const title = document.querySelector("h2");
 const bg = document.querySelector("body");
