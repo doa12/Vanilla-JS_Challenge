@@ -1,3 +1,21 @@
 body {
+  width: 100vw;
+  height: 100vh;
   font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
+    url("src/green.jpg");
+}
+
+h1 {
+  color: rgb(3, 146, 146);
+}
+
+h2 {
+  color: rgb(224, 89, 65);
 }
