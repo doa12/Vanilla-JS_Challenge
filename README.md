@@ -19,8 +19,13 @@
 <h3>📅 Week 2</h3>
 <h5>✔️Mon | Assignment # 07 | Code Challenge</h5>
 <h5>✔️Tue | Assignment # 07 | Code Challenge</h5>
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/188888777-399de7ac-558f-410f-9e02-bc82bfcc18dd.png"/>
 <h5>✔️Wed | Assignment # 08 | Code Challenge</h5>
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/188888850-cca844e9-cfc3-4c47-8fb3-477036f0db82.png"/>
 <h5>✔️Thu | Assignment # 09 | Code Challenge</h5>
+
+
+
 <h5>✔️Fri | Assignment # 10 | Project</h5>
 <h5>✔️Sat | Assignment # 10 | Project</h5>
 <h5>✔️Sun | Assignment # 10 | Project</h5>
