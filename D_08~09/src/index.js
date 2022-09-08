@@ -26,11 +26,4 @@ function submitInput(event) {
 }
 
 guessNum.addEventListener("input", userNum);
-// guessNum의 이벤트를 click으로 설정하면 제대로 실행이 안 되는 경우가 있음!
 randomGame.addEventListener("submit", submitInput);
-
-// Math.round : 반올림
-// Math.ceil : 올림
-// Math.floor : 버림
-
-// complete!
