@@ -10,7 +10,11 @@
 <h5>✔️Tue | Assignment # 02 | Quiz</h5>
 <h5>✔️Wed | Assignment # 03 | Quiz</h5>
 <h5>✔️Thu | Assignment # 04 | Code Challenge</h5>
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/189222151-4284ac31-426a-4dcb-b651-4f01d84d4697.gif"/>
+
 <h5>✔️Fri | Assignment # 05 | Code Challenge</h5>
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/189221498-9665de69-cf28-4ed7-822a-38aec5d4b23b.gif"/>
+
 <h5>✔️Sat | Assignment # 06 | Quiz</h5>
 <h5>🌴Sun | Break</h5>
 
