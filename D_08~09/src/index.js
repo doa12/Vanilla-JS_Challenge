@@ -19,9 +19,9 @@ function submitInput(event) {
     "#numStat"
   ).innerText = `You choose: ${guessN}, the machine chose: ${machineNum}`;
   if (parseInt(guessN) === machineNum) {
-    document.querySelector("#result").innerText = "You win!";
+    document.querySelector("#result").innerText = "You Won!";
   } else {
-    document.querySelector("#result").innerText = "You lose!";
+    document.querySelector("#result").innerText = "You Lost!";
   }
 }
 
