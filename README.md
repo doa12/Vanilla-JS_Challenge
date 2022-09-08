@@ -23,9 +23,7 @@
 <h5>✔️Wed | Assignment # 08 | Code Challenge</h5>
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/188888850-cca844e9-cfc3-4c47-8fb3-477036f0db82.png"/>
 <h5>✔️Thu | Assignment # 09 | Code Challenge</h5>
-
-
-
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/189178170-5bc7eb8d-c544-4805-9c2e-66795535c73d.png"/>
 <h5>✔️Fri | Assignment # 10 | Project</h5>
 <h5>✔️Sat | Assignment # 10 | Project</h5>
 <h5>✔️Sun | Assignment # 10 | Project</h5>
