@@ -46,8 +46,11 @@
 <br />
 
 <h3>📃Feature</h3>
-<h5>- ToDo List CRD</h5>
-<h5>- Today's weather</h5>
+<h5>- Clock</h5>
+<h5>- Local Storage Login</h5>
+<h5>- Local Storage Todo List</h5>
+<h5>- Random Background and Quote</h5>
+<h5>- Weather and Location</h5>
 
 <hr />
 <br />
