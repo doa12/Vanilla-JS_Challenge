@@ -24,7 +24,6 @@
 <h5>✔️Mon ~ Tue | Assignment # 07 | Code Challenge</h5>
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/189218777-194996a1-cdb7-4271-bcc9-49382eeffbb1.gif"/>
 
-
 <h5>✔️Wed | Assignment # 08 | Code Challenge</h5>
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/189215963-b4076794-90dc-4770-9d1b-df922a6be5f0.gif"/>
 
@@ -33,8 +32,7 @@
 
 <h5>✔️Fri ~ Sun | Assignment # 10 | Project</h5>
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/189535078-d5352ad4-e14a-4f92-993f-1be0f496dcbb.gif"/>
-<img width="50%" src="https://user-images.githubusercontent.com/107466703/189535550-59e128f0-42e0-485e-b1da-1e8a087ace33.gif"/>
-
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/189541674-2100e7ae-4408-4b19-a99f-26ff5e6dc467.gif"/>
 
 <hr/>
 
