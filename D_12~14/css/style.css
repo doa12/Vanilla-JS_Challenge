@@ -69,6 +69,9 @@ input {
   border-radius: 10px;
   padding: 10px 15px;
   opacity: 50%;
+  font-family: "Gowun Dodum", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 input::placeholder {
