@@ -52,3 +52,36 @@
 
 <hr />
 <br />
+
+# ⚜️[28th] Vanilla JS | Graduation Work
+- https://nomadcoders.co/vanillajs-challenge
+- 2022.08.29 ~ 2022.09.11
+
+<h5>✔️Fri ~ Sun | Assignment # 10 | Project</h5>
+<img width="100%" src="https://user-images.githubusercontent.com/107466703/189543289-4e5c176b-3e50-4e77-81d9-97ca52adee72.gif"/>
+
+<hr/>
+
+<h3>📚Project</h3>
+<h5>- link: https://doa12.github.io/Vanilla_Graduation/</h5>
+<h5>- javaScript, HTML5, CSS</h5>
+<h5>- IDE: Code SandBox, Visual Studio Code</h5>
+<h5>- API: https://openweathermap.org/current#format</h5>
+
+<br />
+
+<h3>📃Feature</h3>
+<h5>- Clock</h5>
+<h5>- Local Storage Login</h5>
+<h5>- Local Storage Todo List</h5>
+<h5>- Random Backgrounds(8) and Quotes(10)</h5>
+<h5>- Locational Weather</h5>
+
+<br />
+
+<h3>✨ing</h3>
+<h5>- D-day Counter</h5>
+
+<hr />
+<br />
+
