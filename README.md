@@ -31,7 +31,6 @@
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/189213978-285b7c45-9818-49f2-b0ed-a72b38839de7.gif"/>
 
 <h5>✔️Fri ~ Sun | Assignment # 10 | Project</h5>
-<img width="50%" src="https://user-images.githubusercontent.com/107466703/189535078-d5352ad4-e14a-4f92-993f-1be0f496dcbb.gif"/>
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/189543289-4e5c176b-3e50-4e77-81d9-97ca52adee72.gif"/>
 
 <hr/>
