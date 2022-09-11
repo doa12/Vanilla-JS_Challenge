@@ -1,0 +1,154 @@
+body {
+  width: 90vw;
+  height: 100vh;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+#titlebox {
+  width: 100vw;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9));
+  font-family: "Black Han Sans", sans-serif;
+}
+
+h1 {
+  font-size: 55px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#clock {
+  font-size: 35px;
+}
+
+#nav {
+  margin-left: 85%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3));
+  min-width: 365px;
+  width: 20vw;
+  padding: 15px 10px;
+  border-radius: 10px;
+}
+
+#weather {
+  width: 15vw;
+  min-width: 350px;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+  color: white;
+  font-family: "Dongle", sans-serif;
+  font-size: 35px;
+  font-weight: 0.1em;
+}
+
+#login-box,
+#todo-box {
+  width: 20vw;
+  min-width: 360px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none;
+}
+
+form {
+  padding: 10px;
+}
+
+input {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 15px;
+  opacity: 50%;
+}
+
+input::placeholder {
+  font-weight: bold;
+  font-family: "Dongle", sans-serif;
+  font-size: 25px;
+}
+
+#logput {
+  width: 200px;
+}
+
+#button {
+  width: 70px;
+  height: 34px;
+  font-weight: bold;
+  font-family: "Dongle", sans-serif;
+  font-size: 25px;
+  padding: 0;
+}
+
+#button:hover {
+  cursor: pointer;
+  opacity: 70%;
+}
+
+h2 {
+  padding-left: 10px;
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-family: "Dongle", sans-serif;
+  font-size: 45px;
+}
+
+#todo-input {
+  width: 272px;
+}
+
+ul {
+  list-style: none;
+  width: 272px;
+}
+
+li {
+  color: white;
+  text-align: left;
+  font-family: "Gowun Dodum", sans-serif;
+  font-size: 17px;
+  overflow: hidden;
+}
+
+button {
+  margin-left: 20px;
+  border: none;
+  background: none;
+  width: 30px;
+}
+
+#quote {
+  position: fixed;
+  bottom: 0;
+  padding-top: 20px;
+  width: 100vw;
+  height: 100px;
+  text-align: center;
+  color: white;
+  font-family: "Nanum Pen Script", cursive;
+  font-size: 35px;
+  background: linear-gradient(0deg, rgba(83, 83, 83, 0.7), rgba(0, 0, 0, 0.2));
+}
+
+img {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: -1;
+  opacity: 100%;
+}
