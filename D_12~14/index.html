@@ -1,12 +1,61 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>Vanilla Challenge</title>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+			@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Dongle&family=East+Sea+Dokdo&family=Gowun+Dodum&family=Nanum+Pen+Script&display=swap');
+		</style>
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Momentum App</title>
   </head>
-
   <body>
-    <script src="src/index.js"></script>
-    <h2>Hello :)</h2>
+		<div id="titlebox">
+			<h1>Caregiver<h1>
+			<span id="clock">00:00:00</span>
+		</div>
+
+		<div id="nav">
+			<div id="weather">
+				<span></span>
+				<span></span>
+			</div>
+			<hr />
+			<div id="login-box">
+				<form class="hidden" id="login-form">
+					<input
+						id="logput"
+						required
+						maxlength="15"
+						type="text"
+						placeholder="What is your name?"
+					/>
+					<input id="button" type="submit" value="Log In" />
+				</form>
+				<h2 id="greeting" class="hidden"></h2>
+			</div>
+
+			<div id="todo-box">
+				<form id="todo-form">
+					<input id="todo-input" type="text" placeholder="Write a To Do and Press Enter" required />
+				</form>
+				<div id="ul-box">
+					<ul id="todo-list"></ul>
+				</div>
+			</div>
+		</div>
+
+		<div id="quote">
+			<span></span>
+			<br />
+			<span></span>
+		</div>
+		
+    <script src="js/greetings.js"></script>
+    <script src="js/clock.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/background.js"></script>
+    <script src="js/todo.js"></script>
+    <script src="js/weather.js"></script>
   </body>
 </html>
