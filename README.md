@@ -31,9 +31,10 @@
 <h5>✔️Thu | Assignment # 09 | Code Challenge</h5>
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/189213978-285b7c45-9818-49f2-b0ed-a72b38839de7.gif"/>
 
-<h5>✔️Fri | Assignment # 10 | Project</h5>
-<h5>✔️Sat | Assignment # 10 | Project</h5>
-<h5>✔️Sun | Assignment # 10 | Project</h5>
+<h5>✔️Fri ~ Sun | Assignment # 10 | Project</h5>
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/189535078-d5352ad4-e14a-4f92-993f-1be0f496dcbb.gif"/>
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/189535550-59e128f0-42e0-485e-b1da-1e8a087ace33.gif"/>
+
 
 <hr/>
 
@@ -49,8 +50,8 @@
 <h5>- Clock</h5>
 <h5>- Local Storage Login</h5>
 <h5>- Local Storage Todo List</h5>
-<h5>- Random Background and Quote</h5>
-<h5>- Weather and Location</h5>
+<h5>- Random Backgrounds(8) and Quotes(10)</h5>
+<h5>- Locational Weather</h5>
 
 <hr />
 <br />
