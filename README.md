@@ -32,7 +32,7 @@
 
 <h5>✔️Fri ~ Sun | Assignment # 10 | Project</h5>
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/189535078-d5352ad4-e14a-4f92-993f-1be0f496dcbb.gif"/>
-<img width="50%" src="https://user-images.githubusercontent.com/107466703/189541674-2100e7ae-4408-4b19-a99f-26ff5e6dc467.gif"/>
+<img width="50%" src="https://user-images.githubusercontent.com/107466703/189543289-4e5c176b-3e50-4e77-81d9-97ca52adee72.gif"/>
 
 <hr/>
 
