@@ -1,4 +1,4 @@
-# ⚜️Vanilla JS Challenge 28th
+# ⚜️[28th] Vanilla JS | Challenge Assignment
 
 - https://nomadcoders.co/vanillajs-challenge
 - 2022.08.29 ~ 2022.09.11
